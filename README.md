@@ -1,5 +1,3 @@
-# local_storage_clearer
-
 # A chrome extension to clear the local storage at every access at cyclingnews.com
-Since some website allows to visit a limited number of pages if not subscribed, 
-I have created this simple extension to clear the local storage at every access at cyclingnews.com to hav free access to the news
+This is a Chrome extension designed to clear the local storage every time you access cyclingnews.com. 
+Some websites limit the number of pages you can visit without a subscription. This extension allows you to access news content freely.
